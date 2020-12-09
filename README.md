@@ -1,8 +1,8 @@
 ### Hey, I'm Sasuke! 👋
 
 💻 Full javascript programmer <br>
-🧪 I also identify with: C#, HTML5 and CSS3
-👷 Plugin developer at [@umod.org](https://umod.org/user/Obito)
+🧪 I also identify with: C#, HTML5 and CSS3 <br>
+👷 Plugin developer at [@umod.org](https://umod.org/user/Obito) <br>
 🇧🇷 Born in Espirito Santo, Brazil <br>
 
 ### Find me elsewhere 🌎
