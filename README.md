@@ -3,7 +3,7 @@
 💻 Full javascript programmer <br>
 🧪 I also identify with: C#, HTML5 and CSS3 <br>
 👷 Plugin developer at [@umod.org](https://umod.org/user/Obito) <br>
-🇧🇷 Born in Espirito Santo, Brazil <br>
+🍄 Diamond 3 - main mid
 
 ### Find me elsewhere 🌎
 
