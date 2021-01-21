@@ -1,6 +1,6 @@
 ### Hey, I'm Sasuke! 👋
 
-💻 Full javascript programmer <br>
+💻 Freelancer <br>
 🧪 I also identify with: C#, HTML5 and CSS3 <br>
 👷 Plugin developer at [@umod.org](https://umod.org/user/Obito) <br>
 🍄 Diamond 3 - main mid
