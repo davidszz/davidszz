@@ -1,4 +1,4 @@
-### Hey, I'm Sasuke! 👋
+### Hi Peoples! 👋
 
 💻 Freelancer <br>
 🧪 I also identify with: C#, HTML5 and CSS3 <br>
