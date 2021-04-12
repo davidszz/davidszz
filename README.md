@@ -1,4 +1,4 @@
-### Hi Peoples! 👋
+### Hi 👋
 
 💻 Freelancer <br>
 🧪 I also identify with: C#, HTML5 and CSS3 <br>
