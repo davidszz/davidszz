@@ -1,5 +1,6 @@
-🐦 [Twitter](https://twitter.com/sasukesz) <br>
-📸 [Instagram](https://instagram.com/david.kns) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/sasuke-uchiha-5a0202201/) <br>
+# Bro, I really don't know
 
-Discord: Sasuke#7256
+Sasuke#7256 at Discord
+
+[![Twitter Badge](https://i.imgur.com/3iQryTC.png)](https://twitter.com/sasukesz)
+[![Instagram Badge](https://i.imgur.com/3iQryTC.png)](https://instagram.com/david.kns)
