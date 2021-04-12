@@ -2,4 +2,4 @@
 📸 [Instagram](https://instagram.com/david.kns) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/sasuke-uchiha-5a0202201/) <br>
 
-Contact me by Discord: Sasuke#7256
+Discord: Sasuke#7256
