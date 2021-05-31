@@ -1,7 +1,7 @@
 # Hello everyone!
 
-[![Twitter Badge](https://img.shields.io/badge/-@sasukinsz-EB459E?style=flat-square&labelColor=EB459E&logo=twitter&logoColor=white&link=https://twitter.com/sasukinsz)](https://twitter.com/sasukinsz)
-[![Instagram Badge](https://img.shields.io/badge/-@david.kns-EB459E?style=flat-square&labelColor=EB459E&logo=instagram&logoColor=white&link=https://instagram.com/david.kns)](https://instagram.com/david.kns) 
+[![Twitter Badge](https://i.imgur.com/PWKRHhb.png)](https://twitter.com/sasukinsz)
+[![Instagram Badge](https://i.imgur.com/ElvGDJ2.png)](https://instagram.com/david.kns) 
 
 I’m David, better known by my nickname on social networks "Sasuke", I am currently a freelancer who works with bots for Discord and websites made with react.js, express or just HTML, CSS and JS.
 
