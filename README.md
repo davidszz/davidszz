@@ -9,11 +9,13 @@ Writing code daily in search of learning as much as possible. Always looking to 
 *"Just try it..."*
 
 ## Languages
-<a href="https://www.w3schools.com/typescript/" target="_blank"><img align="left" alt="Typescript" width="22px" src="./assets/typescript.svg" />
-<a href="https://www.w3schools.com/javascript/" target="_blank"><img align="left" alt="Javascript" width="22px" src="./assets/javascript.svg" />
-<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="Html" width="22px" src="./assets/html.svg" />
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="Css" width="22px" src="./assets/css.svg" />
+<a href="https://www.w3schools.com/typescript/" target="_blank"><img align="left" alt="Typescript" width="22px" src="./assets/typescript.svg" /></a>
+<a href="https://www.w3schools.com/javascript/" target="_blank"><img align="left" alt="Javascript" width="22px" src="./assets/javascript.svg" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="Html" width="22px" src="./assets/html.svg" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="Css" width="22px" src="./assets/css.svg" /></a>
 <br/>
+
+> Put in dark theme to preview
 
 ## Projects
 [Winx Chat](https://github.com/sasuke-7/winx-chat) (in progress)
