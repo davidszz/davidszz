@@ -25,4 +25,4 @@ Writing code daily in search of learning as much as possible. Always looking to 
 [Yune Store](https://yunestore.xyz)
 
 ## Contact me to make your project!
-Discord: [Sasuke 🌸#8980](https://discord.com/users/757379507358531675)
+Discord: [Sasuke ꕤ#8980](https://discord.com/users/757379507358531675)
