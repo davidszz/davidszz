@@ -1,8 +1,8 @@
-# Hi, i'am [David "Sasuke 🌸"](https://github.com/davidszz)
+# Hi, i'am [David "Yun 🌸"](https://github.com/davidszz)
 
 Enthusiast of the best web development technologies.
 
-[![Instagram](/assets/instagram.png)](https://instagram.com/david.kns) [![Twitter](./assets/twitter.png)](https://twitter.com/sasukinsz)
+[![Instagram](/assets/instagram.png)](https://instagram.com/david.icream) [![Twitter](./assets/twitter.png)](https://twitter.com/sasukinsz)
 
 Writing code daily in search of learning as much as possible. Always looking to learn new frameworks and tools that help to develop projects with more quality and performance.
 
@@ -25,4 +25,4 @@ Writing code daily in search of learning as much as possible. Always looking to 
 [Yune Store](https://yunestore.xyz)
 
 ## Contact me to make your project!
-Discord: [Sasuke ꕤ#8980](https://discord.com/users/757379507358531675)
+Discord: [Yun#2062](https://discord.com/users/757379507358531675)
