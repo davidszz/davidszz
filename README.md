@@ -2,7 +2,7 @@
 
 Enthusiast of the best web development technologies.
 
-[![Instagram](/assets/instagram.png)](https://instagram.com/david.icream) [![Twitter](./assets/twitter.png)](https://twitter.com/sasukinsz)
+[![Instagram](/assets/instagram.png)](https://instagram.com/david.icream) [![Twitter](./assets/twitter.png)](https://twitter.com/princeyunsz)
 
 Writing code daily in search of learning as much as possible. Always looking to learn new frameworks and tools that help to develop projects with more quality and performance.
 
